@@ -30,8 +30,6 @@ public class max_subarray_sum {
         */
         //method 2
         int sum=0;
-        int s_i=0;
-        int d_i=0;
         int start=0;
         for(i=0;i<n;i++)
         {
