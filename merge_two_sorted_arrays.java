@@ -1,5 +1,5 @@
 class Solution {
-    public void mergeArrays(int a[], int b[]) {
+    public void mergeArrays(int a[], int b[]) {   
         // code here
         int n=a.length;
         int m=b.length;
