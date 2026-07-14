@@ -1,5 +1,5 @@
 package sorting;
-import java.util.*;
+import java.util.*;    
 public class merge_sort {
     void merge(int lb,int mid,int ub,int a[])
     {
