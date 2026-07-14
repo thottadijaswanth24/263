@@ -5,7 +5,7 @@ public class median_of_two_sorted_arrays {
         int m=nums2.length;
         int i,j;
         i=0;
-        j=0;
+        j=0;   
         int ans[]=new int[n+m];
         int index=0;
         while(i<n&&j<m)
